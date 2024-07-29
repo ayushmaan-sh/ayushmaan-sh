@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Python Development.<br><br>🌱 **I’m currently learning:**  <br>Python.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Node.jsand any general software development questions.<br><br>⚡ **Fun fact:**  <br>I'm also into business development.
+🔭 **I’m currently working on:**  <br>Python and Full Stack Development.<br><br>🎯 **My Future Targets:**  <br>Rust, DevOps, web3, AI.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Node.jsa nd any general software development questions.<br><br>⚡ **Fun fact:**  <br>I'm a self-taught software developer.
 
 
 ## 🌐 Socials:
